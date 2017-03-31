@@ -7,7 +7,7 @@
 # 08-27-2016 [mr]
 #
 # learn about raspistill 
-# htps://www.raspberrypi.org/documentation/raspbian/applications/camera.md
+# https://www.raspberrypi.org/documentation/raspbian/applications/camera.md
 
 current_time=$(date "+%Y-%m-%d_%H.%M.%S")
 directory="/var/www/html/camera/"
